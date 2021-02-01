@@ -1,0 +1,9 @@
+.avatar {
+  width: 300px;
+  border-radius: 50%;
+}
+
+.fondo {
+  background-color: #3eecac;
+  background-image: linear-gradient(19deg, #3eecac 0%, #ee74e1 100%);
+}
